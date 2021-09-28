@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development and sleep
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on nothing quite yet
-- 📫 How to reach me is nowhere right now
+- 📫 How to reach me is at jamest.hughes@yahoo.com
 
 <!---
 tgpretender/tgpretender is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
