@@ -8,7 +8,7 @@
 
 ### How to Connect
 jamest.hughes@yahoo.com
-[<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />] (https://twitter.com/tg_pretender)
+[Twitter](https://twitter.com/tg_pretender)
 
 
 ### Languages and Tools
