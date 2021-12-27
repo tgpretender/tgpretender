@@ -7,4 +7,4 @@
 - ✔ 2021 Goals: Build 20 small javascript games
 
 ### How to Connect
-[<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/yahoo.svg" />] [jamest.hughes@yahoo.com]
+[jamest.hughes@yahoo.com]
