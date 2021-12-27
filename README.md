@@ -8,8 +8,9 @@
 
 ### How to Connect
 jamest.hughes@yahoo.com <br/>
-[Twitter](https://twitter.com/tg_pretender)
+[Twitter](https://twitter.com/tg_pretender)<br/>
+[LinkedIn](https://www.linkedin.com/in/james-hughes-893737164/)
 
 
 ### Languages and Tools
-
+<img align="left" alt="HTML5" width="22px" src="https://cdn.jsdelivr.net/npm/simple=icons@v3/html.png" /> 
