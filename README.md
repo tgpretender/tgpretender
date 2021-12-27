@@ -7,7 +7,7 @@
 - ✔ 2021 Goals: Build 20 small javascript games
 
 ### How to Connect
-jamest.hughes@yahoo.com
+jamest.hughes@yahoo.com <br/>
 [Twitter](https://twitter.com/tg_pretender)
 
 
