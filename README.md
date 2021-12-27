@@ -13,13 +13,13 @@ jamest.hughes@yahoo.com
 
 
 ### Languages and Tools
-<img align="left" alt="VSCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudiocode.svg" />  
+<img align="left" alt="VSCode" title="VSCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudiocode.svg" />  <br/>
 
 <img align="left" alt="HTML5" title="HTML5" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" /> 
-<img align="left" alt="CSS3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg" /> 
-<img align="left" alt="Javascript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" /> 
-<img align="left" alt="React" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg" /> 
-<img align="left" alt="Node.JS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/node-dot-js.svg" />   
+<img align="left" alt="CSS3" title="CSS3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg" /> 
+<img align="left" alt="Javascript" title="Javascript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" /> 
+<img align="left" alt="React" title="React" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg" /> 
+<img align="left" alt="Node.js" title="Node.js" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/node-dot-js.svg" />   <br/>
 
-<img align="left" alt="PostgreSQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/postgresql.svg" /> 
-<img align="left" alt="Heroku" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/heroku.svg" /> 
+<img align="left" alt="PostgreSQL" title="PostgreSQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/postgresql.svg" /> 
+<img align="left" alt="Heroku" title="Heroku" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/heroku.svg" /> 
