@@ -4,7 +4,7 @@
 - 👀 I’m interested in web development and sleep
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on interesting mini projects
-- ✔ 2021 Goals: Build 20 small javascript games
+- ✔ 2024 Goals: Rebuild my website and publish one small javascript game per month
 
 ### How to Connect
 jamest.hughes@yahoo.com  
